@@ -1,0 +1,16 @@
+.homeIcon-FuNwkv {
+  display: block;
+  width: 0px;
+  height: 0px;
+}
+.scroller-1Bvpku, .wrapper-3NnKdC {
+  background-color: transparent;
+}
+.circleIconButton-1QV--U {
+  background-color: transparent;
+  color: var(--themeColor1);
+}
+.circleIconButton-1QV--U.selected-1JjBPm {
+  background-color: transparent;
+  background-image: linear-gradient(to top right, var(--themeColor1), var(--themeColor2));
+}
